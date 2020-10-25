@@ -1,6 +1,8 @@
 {
   "name": "vue-api",
-  "version": "0.1.0",
+  "version": "1.0.0",
+  "author": "Manu Ustenko",
+  "description": "Vue api module example",
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
